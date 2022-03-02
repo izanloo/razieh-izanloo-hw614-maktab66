@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.btns{
+  display: flex;
+  justify-content: center;
+}
+
+.btn-component{
+  margin-left: 10px;
+  width: 135px;
+  border: 0px;
+  border-radius: 10px;
+  background-color: #00c3ff80;
+  font-size: 21px;
+}
