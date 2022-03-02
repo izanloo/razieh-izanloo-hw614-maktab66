@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+/* style-color-js */
+.pallete{
+  display: block ruby;
+}
+.square{
+  height: 20px;
+  width: 20px;
+  border-radius: 4px;
+  margin-right: 10px;
+}
+
+/*style-colorGenerator-js*/
+.btnAddColor{
+  padding: 10px;
+  margin-top: 50px;
+}
+
